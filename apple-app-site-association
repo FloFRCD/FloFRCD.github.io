@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "KP6N5L9F35.FlorianFourcade.nutrition-app",
+                "appID": "6Z4H58U62L.FlorianFourcade.nutrition-app",
                 "paths": [
                     "/nutrition-app/*",
                     "/*"
