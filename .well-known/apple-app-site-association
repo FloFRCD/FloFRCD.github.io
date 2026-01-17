@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "KP6N5L9F35.com.FlorianFourcade.nutrition-app",
+                "paths": [
+                    "/nutrition-app/*",
+                    "/*"
+                ]
+            }
+        ]
+    }
+}
